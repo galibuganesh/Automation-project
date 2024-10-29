@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="chrometest.automTest"/>
+      <class name="Actionclass.WindowsPopupHandling"/>
+      <class name="Actionclass.DropdownHandling"/>
+      <class name="Actionclass.Assertionsintestng"/>
+      <class name="Actionclass.Annotationsintestng"/>
+      <class name="Actionclass.VerifyallButtonsEnableAndvisible"/>
+      <class name="ss.AAAA.automTest"/>
+      <class name="Actionclass.VerifyingTitlewithAsserts"/>
+      <class name="chrometest.Verifyingkeyboardevents"/>
+      <class name="helper.java.TestNG"/>
+      <class name="Actionclass.VerifyFooterSectionlinksVisibleandenable"/>
+      <class name="chrometest.Verifyingrightclickmethod"/>
+      <class name="Actionclass.Verifylinksinmenusection"/>
+      <class name="ss.AAAA.Edgetest"/>
+      <class name="Actionclass.Uploadingfile"/>
+      <class name="Actionclass.ActionClass"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

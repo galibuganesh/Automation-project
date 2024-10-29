@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ss.AAAA.automTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.435 s <<< FAILURE! - in ss.AAAA.automTest
+mainTest(ss.AAAA.automTest)  Time elapsed: 0.019 s  <<< FAILURE!
+java.lang.RuntimeException: Test not implemented
+	at ss.AAAA.automTest.mainTest(automTest.java:29)
+
